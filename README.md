@@ -8,9 +8,14 @@ Spacy.
 
 
 
-To install the various packages we will be using pip as below
+Para instalar varios paquetes usamos el siguiente comando:
+
+
 
 pip install flask Flask-Markdown spacy
-To work with spacy you will need a particular language model for the natural language processing. You can download the english model with the code below.
+
+
+Para el lenguaje español instalamos el spacy siguiente:
+
 
 python -m spacy download es_core_news_sm
